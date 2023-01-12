@@ -19,7 +19,7 @@ header h1 a {
 
 .nav-right {
     display: flex;
-    padding-top: 2rem;
+    padding-top: 1rem;
 }
 
 .post-entry {
